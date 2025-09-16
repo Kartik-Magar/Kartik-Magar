@@ -82,7 +82,7 @@ Developed with **React and Bootstrap**. Features post creation and fetching data
 
 ## 📝 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A%20great%20full-stack%20developer%20builds%20bridges%20between%20ideas%20and%20reality,%20from%20database%20to%20design.&author=Anonymous)
 
 
 ## 🤝 Connect With Me  
