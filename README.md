@@ -13,35 +13,35 @@
 <!-- Languages -->
 ### Languages  
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="35"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="40"/>
 </p>
 
 ### Frontend  
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" height="35"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" height="40"/>
 </p>
 
 ### Backend & Database  
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="40"/>
 </p>
 
 ### Tools & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" height="35"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=fff" height="35"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" height="40"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=fff" height="40"/>
 </p>
 
 ---
@@ -81,7 +81,9 @@ Developed with **React and Bootstrap**. Features post creation and fetching data
 ---
 
 ## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kartik-magar-222126333/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](#)  
+[![LinkedIn](<a href="https://www.linkedin.com/in/kartik-magar-222126333/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="40"/>
+</a>
+)   
 
 📧 **Email:** kartikmagar03@gmail.com
