@@ -80,11 +80,14 @@ Developed with **React and Bootstrap**. Features post creation and fetching data
 
 ---
 
-## 🖋️ Random Dev Quote  
+## 📝 Random Dev Quote  
+
+<div align="center" style="background-color:#1e1e2f; padding:15px; border-radius:10px;">
 
 > *“Simplicity is the soul of efficiency.”*  
 > — **Austin Freeman**
 
+</div>
 
 ## 🤝 Connect With Me  
 
