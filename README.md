@@ -80,14 +80,15 @@ Developed with **React and Bootstrap**. Features post creation and fetching data
 
 ---
 
-### ✍️ Random Dev Quote
+## 🖋️ Random Dev Quote  
+
 > *“Simplicity is the soul of efficiency.”*  
 > — **Austin Freeman**
 
-## 🤝 Connect With Me  
-My LinkedIn: <a href="https://www.linkedin.com/in/kartik-magar-222126333/"
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="40"/>
-</a>
-)   
 
-📧 **Email:** kartikmagar03@gmail.com
+## 🤝 Connect With Me  
+
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="40"/>](https://www.linkedin.com/in/kartik-magar-222126333/)  
+
+[![Email](https://img.shields.io/badge/Email-kartikmagar03%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:kartikmagar03@gmail.com)
+
